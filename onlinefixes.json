@@ -1,0 +1,393 @@
+{
+  "4704690": {
+    "name": "MECCHA CHAMELEON",
+    "launch": "PenguinHotel.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo PenguinHotel.exe com o online ativo)",
+      "No jogo, vá em <b>Conexão &gt; Iniciar</b>",
+      "Pra <b>criar</b> um servidor: digite um nome e clique em <b>Criar servidor de entrada</b>",
+      "Pra <b>entrar</b> no de um amigo: digite o nome do servidor dele, pesquise e clique em <b>Iniciar</b>",
+      "Aguarde seu amigo entrar e joguem juntos"
+    ]
+  },
+  "2129530": {
+    "name": "REANIMAL",
+    "launch": "Everholm/Binaries/Win64/REANIMAL.exe",
+    "howto": [
+      "Na Steam, adicione o <b>Passe de Amigo do REANIMAL</b> à sua conta (na página da loja)",
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo REANIMAL.exe)",
+      "No jogo: <b>Hospedagem online &gt; Novo jogo &gt; Cooperativo</b>",
+      "Convide um amigo (ou aceite o convite dele) e aguarde a conexão"
+    ]
+  },
+  "1392860": {
+    "name": "Little Nightmares III",
+    "launch": "steam",
+    "howto": [
+      "Na Steam, baixe o <b>Teste Gratuito e Passe de Amigo</b> do Little Nightmares III",
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (esse abre <b>pela Steam</b>)",
+      "No jogo: <b>Multijogador</b> &gt; aceite o convite de um amigo (ou convide você)",
+      "Aguarde a conexão"
+    ]
+  },
+  "3454980": {
+    "name": "Mortal Kombat: Legacy Kollection",
+    "launch": "mk_legacy_collection.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo mk_legacy_collection.exe)",
+      "No jogo: <b>Conectar / Criar servidor &gt; Jogar</b>",
+      "Em <b>Partida rápida</b>, selecione o modo e aguarde o oponente"
+    ]
+  },
+  "2622380": {
+    "name": "ELDEN RING NIGHTREIGN",
+    "launch": "Game/nrsc_launcher.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo nrsc_launcher.exe)",
+      "Conclua o prólogo ou <b>pule o tutorial</b>",
+      "Conexão: <b>aceite o convite de um amigo</b>",
+      "Criar servidor: <b>Configurações de pareamento &gt; Convidar membros &gt; Inicie a Expedição</b>"
+    ]
+  },
+  "4121170": {
+    "name": "Fears to Fathom - Scratch Creek",
+    "launch": "Fears to Fathom - Scratch Creek.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Fears to Fathom - Scratch Creek.exe com o online ativo)",
+      "O jogo é <b>co-op online de 2 jogadores</b> (não tem modo solo)",
+      "No <b>menu principal</b>, clique em <b>Connect</b>",
+      "Pra jogar com um amigo: um de vocês <b>convida o outro pelo Steam</b>",
+      "Sem ninguém pra jogar? Clique em <b>Find Survivor</b> pra achar outro jogador",
+      "Tem <b>chat de voz por proximidade</b>. Teste seu microfone antes de começar"
+    ]
+  },
+  "3241660": {
+    "name": "R.E.P.O.",
+    "launch": "REPO.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo REPO.exe com o online ativo)",
+      "Pra <b>HOSPEDAR</b>: no menu, clique em <b>Host Game</b>, confirme, e depois em <b>Invite</b> pra convidar amigos pelo Steam",
+      "Pra <b>ENTRAR</b>: clique em <b>Join Game</b> (abre a lista de amigos do Steam) e escolha quem está hospedando",
+      "Cabem até <b>6 jogadores</b>. Os amigos precisam estar na sua lista do Steam (não tem matchmaking aleatório)"
+    ]
+  },
+  "1245620": {
+    "name": "ELDEN RING",
+    "launch": "Game/ersc_launcher.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ersc_launcher.exe com o Seamless Co-op ativo)",
+      "No jogo, complete o <b>prólogo</b>: chegue até o primeiro <b>Local de Graça</b> e ative ele",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: abra o <b>inventário</b> e use a <b>Efígie de Malenia</b> (conecta automático no host)",
+      "Pra <b>CRIAR</b> um servidor: abra o inventário e use o <b>Pequeno Grande Vaso</b>, e aguarde os amigos conectarem"
+    ]
+  },
+  "1326470": {
+    "name": "Sons Of The Forest",
+    "launch": "SonsOfTheForest.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo SonsOfTheForest.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Hospedar &gt; Novo jogo</b>, escolha a dificuldade e o número de jogadores, e clique em <b>Começar</b>",
+      "Já no jogo: <b>Convidar um amigo &gt; selecione o amigo</b> pra ele entrar"
+    ]
+  },
+  "2679100": {
+    "name": "Witchspire",
+    "launch": "Hercules/Binaries/Win64/Hercules-Win64-Shipping.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Hercules-Win64-Shipping.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aguarde o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Criar novo jogo &gt; Começar</b>, aperte <b>Esc</b> e clique em <b>Convidar amigos</b>"
+    ]
+  },
+  "3267550": {
+    "name": "The Backrooms Rescue Expedition",
+    "launch": "RescueExpedition.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo RescueExpedition.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Jogar &gt; Criar servidor</b> e depois <b>Convide um amigo</b>"
+    ]
+  },
+  "3892270": {
+    "name": "Gamble With Your Friends",
+    "launch": "Gamble With Your Friends.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Gamble With Your Friends.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Hospedar jogo</b>, convide seus amigos e aguarde eles conectarem"
+    ]
+  },
+  "3050220": {
+    "name": "The King of Fighters XIII Global Match",
+    "launch": "game.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo game.exe com o online ativo)",
+      "Pra <b>ENTRAR</b>: no jogo vá em <b>ONLINE &gt; Partida do Jogador &gt; Partida Rápida</b> e aceite o convite de um amigo",
+      "Pra <b>CRIAR</b>: <b>ONLINE &gt; Partida do Jogador &gt; Criar Combinação &gt; Criar espaço</b>, e convide um amigo (ou aguarde ele entrar)"
+    ]
+  },
+  "1627720": {
+    "name": "Lies of P",
+    "launch": "LOP.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "<b>SÓ NA 1ª VEZ:</b> abra o jogo em single-player pelo <b>LiesofP/Binaries/Win64/LOP-Win64-Shipping.exe</b>, chegue ao menu principal e saia (use o botão <b>Abrir pasta</b> aqui pra achar o arquivo)",
+      "Depois, aqui no OVERISE clique em <b>Iniciar jogo</b> (abre pelo LOP.exe com o co-op ativo)",
+      "Pra <b>ENTRAR</b>: <b>Entrar em uma partida &gt; Próximo</b>, digite a <b>senha do lobby do seu amigo</b> e confirme",
+      "Pra <b>CRIAR</b>: <b>Hospedar um jogo &gt; Próximo</b>, defina uma <b>senha do lobby</b>, clique em <b>Hospedar</b> e aguarde o outro jogador"
+    ]
+  },
+  "1243830": {
+    "name": "Overcooked! All You Can Eat",
+    "launch": "XboxLiveAuth.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo XboxLiveAuth.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: entre no <b>Jogo online</b>, convide um amigo e aguarde ele conectar"
+    ]
+  },
+  "108600": {
+    "name": "Project Zomboid",
+    "launch": "ProjectZomboid32.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ProjectZomboid32.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: vá em <b>Servidor &gt; Lançar</b>, aperte <b>Esc</b>, clique em <b>Convide um amigo</b> e aguarde ele entrar"
+    ]
+  },
+  "1144200": {
+    "name": "Ready or Not",
+    "launch": "ReadyOrNot.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ReadyOrNot.exe com o online ativo)",
+      "<b>Importante:</b> faça login na sua conta da <b>Epic Games Store</b> na janela do navegador que abrir (é o EOS, necessário pro online)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Somente para amigos do anfitrião</b>, aperte <b>Esc &gt; Gerente de recepção &gt; Convidar jogador</b> e convide seus amigos"
+    ]
+  },
+  "2799860": {
+    "name": "Inazuma Eleven: Victory Road",
+    "launch": "nie.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo nie.exe com o online ativo)",
+      "Pra <b>ENTRAR</b>: <b>Modo Competitivo &gt; Competir online &gt; Partida no Lobby &gt; Buscar o saguão &gt; Procurar</b> e conecte-se a qualquer servidor",
+      "Pra <b>CRIAR</b>: <b>Modo Competitivo &gt; Competir online &gt; Partida no Lobby &gt; Criar um lobby privado &gt; Criar</b>, e aguarde os outros jogadores entrarem"
+    ]
+  },
+  "739630": {
+    "name": "Phasmophobia",
+    "launch": "Launcher.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Launcher.exe com o online ativo)",
+      "No jogo, <b>complete o tutorial</b> primeiro (é necessário pra liberar o online)",
+      "Pra <b>ENTRAR</b>: clique em <b>Jogue</b> e conecte-se a qualquer servidor",
+      "Pra <b>CRIAR</b>: <b>Jogar &gt; Criar</b>, e aguarde os outros jogadores entrarem"
+    ]
+  },
+  "3097560": {
+    "name": "Liar's Bar",
+    "launch": "Liar's Bar.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Liar's Bar.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele pelo Steam</b>",
+      "Pra <b>CRIAR</b> uma sala: <b>hospede uma sala</b> e convide seus amigos pelo Steam, e aguarde eles entrarem"
+    ]
+  },
+  "1272080": {
+    "name": "PAYDAY 3",
+    "launch": "XboxLiveAuth.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "<b>SÓ NA 1ª VEZ:</b> crie uma conta <b>Nebula</b> (site oficial do PAYDAY) e <b>vincule</b> a ela a conta da <b>Microsoft Store</b> que você vai usar no login",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo XboxLiveAuth.exe) e <b>faça login na sua conta da Microsoft Store</b>",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele</b>",
+      "Pra <b>CRIAR</b>: adicione seus amigos pelo <b>apelido</b> na lista de amigos, convide e aguarde eles entrarem"
+    ]
+  },
+  "2001120": {
+    "name": "Split Fiction",
+    "launch": "steam",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "É a versão <b>Friend's Pass</b>: só um de vocês precisa ter o jogo; o amigo entra pelo <b>Passe de Amigo</b> grátis",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (esse abre <b>pela Steam</b>)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite dele</b>",
+      "Pra <b>CRIAR</b>: <b>Play Online &gt; Host through Steam &gt; Invite Friend</b>, e aguarde o amigo conectar"
+    ]
+  },
+  "2868840": {
+    "name": "Slay the Spire 2",
+    "launch": "SlayTheSpire2.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo SlayTheSpire2.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: <b>Multiplayer &gt; Join</b> e conecte no servidor dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Multiplayer &gt; Host</b> e aguarde os outros jogadores entrarem"
+    ]
+  },
+  "2406770": {
+    "name": "Bodycam",
+    "launch": "Bodycam-Win64-Shipping.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre o Bodycam com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: convide os amigos e aguarde eles conectarem"
+    ]
+  },
+  "3949040": {
+    "name": "RV There Yet?",
+    "launch": "Ride.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Ride.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Novo Jogo</b>, inicie o passeio e no menu (ESC) clique em <b>Convidar amigos</b>"
+    ]
+  },
+  "1020790": {
+    "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+    "launch": "NSUNSC.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo NSUNSC.exe com o online ativo)",
+      "No jogo entre em <b>Batalha Online</b> e selecione o tipo de partida",
+      "Nas configuracoes da partida, defina a <b>regiao como QUALQUER</b> e clique em <b>Comecar a combinar</b> (conecta automatico com um oponente)"
+    ]
+  },
+  "1426210": {
+    "name": "It Takes Two",
+    "launch": "steam",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pela Steam com o Passe de Amigo online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Jogar online &gt; Hospedar via Steam &gt; Convidar um amigo</b> e aguarde ele conectar"
+    ]
+  },
+  "2661300": {
+    "name": "Grounded 2",
+    "launch": "Grounded2.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Grounded2.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: <b>Multijogador &gt; Participe do jogo online</b> e conecte no servidor dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Multijogador &gt; Hospedar jogo online &gt; Novo jogo</b> e aguarde os jogadores entrarem"
+    ]
+  },
+  "2827200": {
+    "name": "MIMESIS",
+    "launch": "MIMESIS.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo MIMESIS.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele",
+      "Pra <b>CRIAR</b> um servidor: <b>Novo TRAM</b>, aperte <b>ESC</b> e clique em <b>Convidar amigos</b>, e aguarde eles entrarem"
+    ]
+  },
+  "3722330": {
+    "name": "Shift at Midnight",
+    "launch": "ShiftAtMidnight.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ShiftAtMidnight.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele no multiplayer",
+      "Pra <b>CRIAR</b> um servidor: crie/hospede uma partida e convide os amigos, e aguarde eles entrarem"
+    ]
+  },
+  "2424420": {
+    "name": "Avatar Legends: The Fighting Game",
+    "launch": "Atla.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo Atla.exe com o online ativo)",
+      "Pra <b>ENTRAR</b>: Online VS -> Encontros/Salas de espera -> <b>Entrar no Lobby Privado</b> -> insira o codigo de convite / aceite o convite do amigo",
+      "Pra <b>CRIAR</b>: Online VS -> Saguoes -> <b>Criar lobby privado</b> -> compartilhe o codigo (ou Shift+Tab e convide) -> aguarde o amigo conectar"
+    ]
+  },
+  "3527290": {
+    "name": "PEAK",
+    "launch": "PEAK.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo PEAK.exe com o online ativo)",
+      "Pra jogar com amigos: <b>crie uma sala</b> e convide pelo Steam (Shift+Tab), ou <b>aceite o convite</b> de um amigo"
+    ]
+  },
+  "3376250": {
+    "name": "Nine-Ball Roulette",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (cola tudo na pasta do jogo e abre pelo exe, com o online ativo)",
+      "Pra jogar com amigos: <b>crie ou entre numa sala</b> e convide pelo Steam (Shift+Tab)"
+    ]
+  },
+  "4001890": {
+    "name": "How to Fish",
+    "launch": "How to Fish.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faca login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre o How to Fish com o online ativo)",
+      "No jogo, use o menu de <b>multiplayer</b> pra criar ou entrar numa sala com os amigos"
+    ]
+  },
+  "4656000": {
+    "name": "BOMBANANA!",
+    "launch": "BOMBANANA.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo BOMBANANA.exe com o online ativo)",
+      "Pra <b>ENTRAR</b> no jogo de um amigo: aceite o <b>convite</b> dele pelo Steam",
+      "Pra <b>CRIAR</b> uma sala: crie a partida e <b>convide seus amigos</b> pelo Steam"
+    ]
+  },
+  "1374490": {
+    "name": "RuneScape: Dragonwilds",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo <b>RSDragonwilds-Win64-Shipping.exe</b> com o online ativo)",
+      "Pra <b>JOGAR JUNTO</b>: um cria o mundo e <b>convida os amigos pelo Steam</b>; os outros <b>aceitam o convite</b> pelo Steam",
+      "Todos precisam estar com o fix aplicado (clicar em Iniciar jogo aqui) e na <b>mesma versão</b> do jogo"
+    ]
+  },
+  "4450620": {
+    "name": "Grain Rot",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login no seu perfil",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo <b>Helden-Win64-Shipping.exe</b> com o online ativo)",
+      "Pra <b>JOGAR JUNTO</b>: um cria a sala e <b>convida os amigos pelo Steam</b>; os outros <b>aceitam o convite</b> pelo Steam",
+      "Todos com o fix aplicado (clicar em Iniciar jogo aqui) e na <b>mesma versão</b> do jogo"
+    ]
+  },
+  "1372110": {
+    "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "launch": "ASBR.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ASBR.exe com o online ativo)",
+      "No jogo, entre no modo <b>Online</b> pelo menu principal",
+      "Pra jogar com um amigo, use a <b>Partida com jogador</b> (sala) e convide ou entre pela lista de amigos da Steam",
+      "Seu amigo também precisa estar com o online do OVERISE aplicado"
+    ]
+  }
+}
