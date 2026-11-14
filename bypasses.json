@@ -1,0 +1,269 @@
+{
+  "1144200": {
+    "name": "Ready or Not"
+  },
+  "1174180": {
+    "folder": "Red Dead Redemption 2",
+    "launch": "RDR2Launcher.exe",
+    "name": "Red Dead Redemption 2"
+  },
+  "12100": {
+    "name": "Grand Theft Auto III"
+  },
+  "1222680": {
+    "launch": "NeedForSpeedHeat.exe",
+    "name": "Need for Speed™ Heat"
+  },
+  "1426210": {
+    "name": "It Takes Two"
+  },
+  "1506830": {
+    "howto": [
+      "Baixe o <b>FIFA 22</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo FIFA22.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "FIFA22.exe",
+    "name": "FIFA 22"
+  },
+  "1546990": {
+    "name": "Grand Theft Auto: Vice City – The Definitive Edition"
+  },
+  "1547000": {
+    "name": "Grand Theft Auto: San Andreas – The Definitive Edition"
+  },
+  "1971870": {
+    "launch": "MK12.exe",
+    "name": "Mortal Kombat 1"
+  },
+  "201870": {
+    "bypass": "AssassinsCreedRevelations.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Revelations</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AssassinsCreedRevelations.exe)",
+      "<b>Delete o arquivo systemdetection.dll</b> na pasta do jogo para evitar flickering de tela",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "AssassinsCreedRevelations.exe",
+    "name": "Assassin's Creed Revelations"
+  },
+  "202970": {
+    "howto": [
+      "Baixe o <b>Call of Duty: Black Ops II</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo t6sp.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "t6sp.exe",
+    "name": "Call of Duty: Black Ops II"
+  },
+  "208480": {
+    "bypass": "AssassinCreedIII.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed III</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (coloca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AC3SP.exe com o bypass ativo)",
+      "<b>Desligue a internet</b> antes de jogar para evitar problemas",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "AC3SP.exe",
+    "name": "Assassin's Creed III"
+  },
+  "2172010": {
+    "folder": "UntilDawn",
+    "howto": [
+      "Baixe o <b>Until Dawn</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no VYRON, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (baixa e aplica o RUNE + PSN PC SDK Runtime na pasta do jogo)",
+      "Apos aplicar, abra a pasta <b>OnlineSubsystemPsPcInstaller</b> dentro do jogo e rode o <b>install_pspc_sdk_runtime.bat</b> (instala o SDK da Sony necessario)",
+      "Abra o jogo <b>SEMPRE por aqui no VYRON</b> clicando em <b>Iniciar</b> (abre pelo Bates.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "Bates.exe",
+    "name": "Until Dawn"
+  },
+  "2215200": {
+    "name": "LEGO® Batman™: Legacy of the Dark Knight"
+  },
+  "306950": {
+    "bypass": "AssassinsCreedSyndicate.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Syndicate</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACS.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACS.exe",
+    "name": "Assassin's Creed Syndicate"
+  },
+  "315560": {
+    "bypass": "AssassinsCreedRogue.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Rogue</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACRogue.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACRogue.exe",
+    "name": "Assassin's Creed Rogue"
+  },
+  "2208920": {
+    "bypass": "AssassinsCreedValhalla.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Valhalla</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACValhalla.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACValhalla.exe",
+    "name": "Assassin's Creed Valhalla"
+  },
+  "234140": {
+    "launch": "MadMax.exe",
+    "name": "Mad Max"
+  },
+  "2358720": {
+    "name": "Black Myth: Wukong"
+  },
+  "2668510": {
+    "name": "Red Dead Redemption"
+  },
+  "2840770": {
+    "folder": "Avatar Frontiers of Pandora",
+    "launch": "afop.exe",
+    "name": "Avatar: Frontiers of Pandora"
+  },
+  "289650": {
+    "bypass": "AssassinsCreedUnity.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Unity</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACU.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACU.exe",
+    "name": "Assassin's Creed Unity"
+  },
+  "3035570": {
+    "bypass": "AssassinsCreedMirage.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Mirage</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACMirage.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACMirage.exe",
+    "name": "Assassin's Creed Mirage"
+  },
+  "311210": {
+    "howto": [
+      "Baixe o <b>Call of Duty: Black Ops III</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (coloca o app <b>BOIII</b> na pasta do jogo)",
+      "Clique em <b>Iniciar</b> aqui no OVERISE: abre o <b>BOIII</b>, que atualiza os arquivos e aplica o bypass sozinho",
+      "Na <b>primeira vez</b> o BOIII pode baixar alguns arquivos, aguarde terminar. Depois e so jogar (campanha, zumbi e online)",
+      "<b>Nunca abra pela Steam</b>, sempre pelo BOIII aqui no OVERISE"
+    ],
+    "launch": "boiii.exe",
+    "name": "Call of Duty: Black Ops III"
+  },
+  "3159330": {
+    "howto": [
+      "Baixe o <b>Assassin's Creed Shadows</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACShadows.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACShadows.exe",
+    "name": "Assassin's Creed Shadows"
+  },
+  "3240220": {
+    "launch": "PlayGTAV.exe",
+    "name": "Grand Theft Auto V Enhanced"
+  },
+  "3321460": {
+    "folder": "Crimson Desert",
+    "launch": "CrimsonDesert.exe",
+    "name": "Crimson Desert"
+  },
+  "33230": {
+    "bypass": "AssassinsCreedII.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed II</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AssassinsCreedIIGame.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "AssassinsCreedIIGame.exe",
+    "name": "Assassin's Creed II"
+  },
+  "3357650": {
+    "launch": "PRAGMATA.exe",
+    "name": "PRAGMATA"
+  },
+  "3489700": {
+    "howto": [
+      "Baixe o <b>Stellar Blade</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo SB-Win64-Shipping.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "SB-Win64-Shipping.exe",
+    "name": "Stellar Blade"
+  },
+  "371660": {
+    "name": "Far Cry® Primal"
+  },
+  "3751950": {
+    "launch": "ACBlackFlag.exe",
+    "name": "Assassin's Creed IV Black Flag (Resynced)"
+  },
+  "3764200": {
+    "name": "Resident Evil Requiem"
+  },
+  "3768760": {
+    "name": "007 First Light"
+  },
+  "42700": {
+    "howto": [
+      "Baixe o <b>Call of Duty: Black Ops</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo BlackOps.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "BlackOps.exe",
+    "name": "Call of Duty: Black Ops"
+  },
+  "447040": {
+    "launch": "bin/WatchDogs2.exe",
+    "name": "Watch Dogs 2"
+  },
+  "48190": {
+    "bypass": "AssassinsCreedBrotherhood.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Brotherhood</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AssassinsCreedBrotherhood.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "AssassinsCreedBrotherhood.exe",
+    "name": "Assassin's Creed Brotherhood"
+  },
+  "582160": {
+    "bypass": "AssassinsCreedOrigins.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Origins</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACOrigins.exe com o bypass ativo)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACOrigins.exe",
+    "name": "Assassin's Creed Origins"
+  },
+  "752590": {
+    "name": "A Plague Tale: Innocence"
+  },
+  "990080": {
+    "name": "Hogwarts Legacy"
+  }
+}
