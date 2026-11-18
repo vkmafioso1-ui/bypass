@@ -48,7 +48,7 @@ def release_assets():
             if asset.get("state") != "uploaded":
                 continue
             name = str(asset.get("name", ""))
-            match = re.fullmatch(r"([1-9][0-9]*)\\.zip", name, re.IGNORECASE)
+            match = re.fullmatch(r"([1-9][0-9]*)\.zip", name, re.IGNORECASE)
             if match and int(asset.get("size", 0)) > 0:
                 yield match.group(1)
         if len(assets) < 100:
